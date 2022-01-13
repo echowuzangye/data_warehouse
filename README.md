@@ -24,3 +24,9 @@ A music streaming startup Sparkify, has grown their user base and song database 
 - Problem when loading data in tables: https://knowledge.udacity.com/questions/233374
 - Data type for ts in staging_events table: https://knowledge.udacity.com/questions/146646
 - Takes a long time to load staging_song table: https://knowledge.udacity.com/questions/358793
+- Top 8 Best Practices for High-Performance ETL Processing Using Amazon Redshift:
+https://aws.amazon.com/blogs/big-data/top-8-best-practices-for-high-performance-etl-processing-using-amazon-redshift/
+- How I built a data warehouse using Amazon Redshift and AWS services in record time
+https://aws.amazon.com/blogs/big-data/how-i-built-a-data-warehouse-using-amazon-redshift-and-aws-services-in-record-time/
+- Redshift ETL: 3 Ways to load data into AWS Redshift: https://panoply.io/data-warehouse-guide/redshift-etl/
+- 2X Your Redshift Speed With Sortkeys and Distkeys: https://www.sisense.com/blog/double-your-redshift-performance-with-the-right-sortkeys-and-distkeys/
